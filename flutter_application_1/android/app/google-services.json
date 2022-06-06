@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855084014176",
+    "project_id": "footwear-fb-app",
+    "storage_bucket": "footwear-fb-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855084014176:android:93f4da25a9bdb743c64105",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855084014176-3pb8qporou38h72g9r2g9o2gn2b3rhn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbC67hEaZRjUQeNMQzNrGPDo2HzUDvHOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855084014176-3pb8qporou38h72g9r2g9o2gn2b3rhn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
